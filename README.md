@@ -42,3 +42,18 @@ Client → Lambda Function URL → AWS Lambda → Amazon S3
 ## Author
 
 Nikhil SP
+
+## Project Demo
+
+### Lambda Function Code
+
+![Lambda Code](lambda-code.png)
+
+### API Request Success
+
+![API Success](api-success.png)
+
+### File Uploaded to Amazon S3
+
+![S3 Upload](s3-upload.png)
+
